@@ -2,7 +2,7 @@
 
 ![Preview](thumbnail.png)
 
-**Tested With V3 Version: 1.7.5**
+**Tested With V3 Version: 1.8.6**
 
 Compatibility patch between Industry Realism and Ultra Historical Politics.
 
